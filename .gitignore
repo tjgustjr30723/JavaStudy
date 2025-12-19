@@ -1,7 +1,10 @@
-# IntelliJ
+# macOS
+.DS_Store
+
+# IntelliJ / IDEA
 .idea/
 *.iml
 
-# Build output
+# Java build
 out/
-*.class
+target/
